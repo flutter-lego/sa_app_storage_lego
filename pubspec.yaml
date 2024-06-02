@@ -1,9 +1,9 @@
 name: sa_app_storage_lego
-description: "lego is all you need"
+description: "app storage lego under simple architecture framework."
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/lego
+repository: https://github.com/flutter-lego/sa_app_storage_lego
 
-version: 1.0.0
+version: 1.0.1
 
 environment:
   sdk: '>=3.3.1 <4.0.0'
